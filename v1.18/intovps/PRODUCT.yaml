@@ -1,0 +1,8 @@
+vendor: IntoVPSC Cloud
+name: Kubernetes Container Service
+version: 1.18.15
+website_url: https://intovps.com/kubernetes.html
+documentation_url: https://intovps.com/docs/kubernetes/
+product_logo_url: https://intovps.com/assets/img/logo_intovps.svg
+type: hosted
+description: Fully managed Kubernetes fully integrated with OpenStack
